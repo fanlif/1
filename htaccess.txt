@@ -1,3 +1,0 @@
-
-[html] Redirect /f1.html https://pak300.netlify.com/f2.html
-[/html]
