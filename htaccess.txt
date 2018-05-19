@@ -1,1 +1,3 @@
 
+[html] Redirect /olddirectory/oldfile.html http://yoursite.com/newdirectory/newfile.html
+[/html]
